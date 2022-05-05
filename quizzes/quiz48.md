@@ -25,4 +25,4 @@ test2 = print(mars_lander([(0, 1000), (300, 1500), (350, 1400), (500, 2000), (80
 
 ### Output
 
-![](quiz48out.png)
+![](quiz48.png)
