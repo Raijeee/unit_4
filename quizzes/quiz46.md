@@ -32,4 +32,4 @@ print(NarcissisticNumber(start=0, end=372).get_list())
 
 ## Output
 
-![](quiz46out.png)
+![](quiz46.png)
