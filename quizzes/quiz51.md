@@ -2,4 +2,4 @@
 
 ### Output:
 
-![](quiz51.png)
+![](quiz51.jpg)
